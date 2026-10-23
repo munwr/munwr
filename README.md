@@ -1,19 +1,17 @@
-Hi , This is **Munawar Ahmed**
+### Hi, I'm Munawar 👋
 
-- 🇮🇳 Based in Nellore, India. So, i can enjoy sunny beaches.
-- 💞️ I’m looking to collaborate on [Stackrole.com](https://stackrole.com) and build open-source jamstack templates.
-- 📫 How to reach me hi@munwr.com or DM on twitter [@MunawarJS](https://twitter.com/MunawarJS)
+A frontend engineer who also designs. Or a designer who codes. Depends on who's asking.
 
-## Summary
+- 🛠️ Senior UX Engineer at [Factors.ai](https://www.factors.ai), building AI interfaces that let you talk with your data.
+- 🎨 Before that I built the Factors.ai design system: Storybook, components and tokens the whole team builds on.
+- 🏢 Ex-Freshworks: Freshdesk, Freshchat, Freshmarketer and Freshcaller (2014-2019).
+- 📱 Self-taught, shipping websites, apps and design systems since 2010, when I started Mobifreaks to share free mobile website templates.
+- 🌐 More about me at [munawarahmed.com](https://munawarahmed.com) · say hi on [LinkedIn](https://www.linkedin.com/in/munawarjs/).
 
-I'm a self-taught Frontend engineer. I have built websites and products for B2B and B2C companies. In the past, I have worked with Freshworks and been part of Freshdesk, Freshchat, and Freshcaller.
+> Iterate quickly, Release often and Fail fast.
 
-My core strength is creating a details-oriented proof of concept from scratch. I am good at breaking product requirements into smaller and actionable tasks.
+#### What I work with
 
-I ensure my code is at par with industry best practices, so any developer can pick my work without needing me to guide them. I have a keen interest in web development, website & web app performance, UI/UX design, software engineering best practices, and saas products.
-
-I take pride in delivering pixel-perfect websites & web apps that work irrespective of screen size, platform, browser, and device without compromising usability and accessibility.
-
-I also contribute to open-source projects and share free Jamstack and mobile templates.
-
-Want to launch your website without spending a dollar on hosting? Check out [Stackrole.com](https://stackrole.com)
+- **Design:** Design Systems · UI Design · UX Design · Prototyping · Figma
+- **Engineering:** React · JavaScript · Storybook · HTML · CSS · SCSS · Astro · Gatsby · Next.js
+- **Product & AI:** AI Interfaces · Product Strategy · Data-Informed · Human-Centered
